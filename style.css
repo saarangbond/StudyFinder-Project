@@ -1,0 +1,20 @@
+button {
+    padding: 10px 20px;
+    background: none;
+    border: 1px solid rgb(250,200 , 0);
+    color: rgb(250,200 , 0);
+    border-radius: 5px;
+    outline: none;
+    font-size: 10px;
+    transition: 0.1s ease-in-out;
+}
+
+button:hover {
+    background: rgb(250,200 , 0);
+    color: white;
+    cursor: pointer;
+}
+
+ul.courses{
+    list-style-type: none;
+}
